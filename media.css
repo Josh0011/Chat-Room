@@ -68,3 +68,9 @@ MEDIA QUERIES FOR SMALL LAPTOPS AND BIG TABLETS
     width: 92vw;
   }
 }
+
+@media screen and (max-width: 850px) {
+  .customize-theme .card {
+    width: auto;
+  }
+}
